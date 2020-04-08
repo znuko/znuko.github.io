@@ -1,0 +1,37 @@
+# 
+#   _config.yml
+# 
+
+title   : ぬこやまのほーむぺーじ
+author  : ぬこやま
+email   : ny77ym@gmail.com
+keywords: ぬこやま
+description: >- # this means to ignore newlines until "baseurl:"
+  おやすみ！
+baseurl : "/" # the subpath of your site, e.g. /blog
+url     : "http://nukoyama.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: geniusium_
+github_username : nukoyama
+
+
+# highlighter: rouge # code syntax highlight
+
+# collections:
+#   members:
+#     output: true
+#   pages:
+#     output: true
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "pages"
+#       toc: true
+

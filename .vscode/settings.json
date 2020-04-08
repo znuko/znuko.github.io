@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.root": "/_site/", // root を /_site/ に設定。
+  "files.associations": {
+    "*.html": "html"
+  },
+  "scss.validate": false // don't show scss errors with front matter
+}
