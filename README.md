@@ -1,4 +1,4 @@
-# nukoyama.github.io
+# znuko.github.io
 nukoyama's homepage
 
 ## jekyll使い方メモ
